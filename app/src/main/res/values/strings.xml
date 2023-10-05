@@ -8,4 +8,15 @@
     <string name="alamat">Alamat</string>
     <string name="masukkan_alamat">Masukkan alamat</string>
     <string name="btnsubmit">Submit</string>
+
+    <string name="button_1">Button1</string>
+    <string name="button_2">Button2</string>
+    <string name="match_parent">Match Parent</string>
+    <string name="right">Button Right</string>
+    <string name="left">Button Left</string>
+    <string name="lt">Button</string>
+    <string name="pilih_motor">Select Motor</string>
+    <string name="gt">Button</string>
+    <string name="btnsubmit">Submit</string>
+
 </resources>

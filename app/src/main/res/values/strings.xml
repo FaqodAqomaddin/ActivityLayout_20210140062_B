@@ -14,9 +14,8 @@
     <string name="match_parent">Match Parent</string>
     <string name="right">Button Right</string>
     <string name="left">Button Left</string>
-    <string name="lt">Button</string>
+    <string name="lt"><![CDATA[<]]></string>
     <string name="pilih_motor">Select Motor</string>
-    <string name="gt">Button</string>
-    <string name="btnsubmit">Submit</string>
+    <string name="gt"><![CDATA[>]]></string>
 
 </resources>

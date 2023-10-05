@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ProjectB</string>
+    <string name="tlogo"></string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="no_tlp">No Tlp</string>
+    <string name="masukkan_nomer_hp">Masukkan No Hp</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukkan_alamat">Masukkan alamat</string>
+    <string name="submit">Masuk</string>
 </resources>

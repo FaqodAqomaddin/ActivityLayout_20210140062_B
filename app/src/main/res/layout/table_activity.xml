@@ -118,7 +118,7 @@
 
     <TableRow
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="104dp"
         android:layout_marginTop="20dp"
         android:gravity="center">
 
@@ -128,9 +128,9 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:layout_span="2"
-            android:backgroundTint="#D51CBC"
+            android:backgroundTint="@color/blue"
             android:radius="50dp"
-            android:text="@string/submit"
+            android:text="@string/btnsubmit"
             android:textStyle="bold" />
     </TableRow>
 
